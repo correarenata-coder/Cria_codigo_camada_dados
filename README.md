@@ -62,26 +62,31 @@ O modelo utilizado neste projeto foi:
 
 ## 🧪PARTE 4 --- Testar o Modelo no Playground
 
+Utilizamos o Playground para validar a aderência do modelo ao prompt principal de segurança (não sugerir álcool).
+
+Teste 1: Cenário Seguro (OK)
 Exemplo de prompt usado:
 
     Você é um assistente para fazer coquetéis sem álcool, pois é para festa de crianças. Não pode ter nada alcoólico.
 
 <img width="1602" height="644" alt="TELA_07" src="https://github.com/user-attachments/assets/0394149c-490f-4b2f-8366-e44ccc5e6d46" />
 
-Agora com outro teste
+Teste 2: Cenário de Segurança (Recusa)
 
 Exemplo de prompt usado:
 
     Quero uma bebida com vodka
 
 <img width="1004" height="278" alt="TELA_08" src="https://github.com/user-attachments/assets/5e215b9b-a343-4300-8af6-3683d2629cf5" />
+Conclusão: O modelo está funcionando conforme o esperado, recusando pedidos de álcool e mantendo o foco no público-alvo (festa de crianças).
 
-Concluimos que está funcionando
 ---
 
 ## 🛠️ PARTE 5 --- Criar o Agente "Criação de Código"
 
-Prompt utilizado:
+Esta etapa consiste na configuração do Agente de IA que será o núcleo da nossa ferramenta.
+
+Prompt de Configuração utilizado:
 
     Você é um assistente de IA que recebe uma estrutura de tabela e ajuda os desenvolvedores a fazerem a camada de dados em um projeto MVC usando SQL e Dapper.
 
@@ -91,7 +96,9 @@ Prompt utilizado:
 
 ## 🧪PARTE 6 --- Testar o Agente
 
-Exemplo:
+Validamos se o agente configurado consegue interpretar corretamente a estrutura da tabela e gerar o código esperado.
+
+Exemplo de Input (Estrutura da Tabela):
 
     Cria tabela ALUNO 
     IDALUNO int (chave), 
@@ -107,13 +114,14 @@ Exemplo:
 
 ## ⚡PARTE 7 --- Criar uma Ação (Action)
 
-Permite chamar o agente via APIs e automações externas.
+A criação de uma Action permite que o agente seja acessado e utilizado por sistemas externos, via APIs e automações.
 <img width="1633" height="760" alt="image" src="https://github.com/user-attachments/assets/62d5d03a-4cd8-4f6a-9580-2c409f90d071" />
 
 <img width="1233" height="829" alt="image (1)" src="https://github.com/user-attachments/assets/546dd55b-702e-434a-864f-255566211449" />
 
 ---
-## ⚡PARTE 8 --- Teste do Playground
+## 💻PARTE 8 --- Teste do Playground
+Teste de ponta a ponta do agente e de sua Action configurada, garantindo que o fluxo de geração de código está funcional.
 
 <img width="1663" height="808" alt="image (3)" src="https://github.com/user-attachments/assets/c262ed95-5fa0-4f2a-8174-061fef0d8513" />
 
@@ -122,10 +130,7 @@ Permite chamar o agente via APIs e automações externas.
 ---
 # 🎉 Conclusão
 
-Este projeto mostra como usar **AI Foundry + GPT-4.1-Mini** para
-automatizar a criação da camada de dados em **C# MVC com Dapper**,
-reduzindo esforço manual, erros comuns e acelerando o aprendizado de
-novos desenvolvedores.
+Este trabalho demonstra o uso eficaz do AI Foundry em conjunto com o modelo GPT-4.1-Mini para automatizar a criação da camada de dados em projetos C# MVC com Dapper. O resultado é uma redução no esforço manual, minimização de erros comuns e aceleração do processo de aprendizado para novos desenvolvedores.
 
 
 ## Indicações de materiais
