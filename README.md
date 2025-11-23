@@ -24,7 +24,7 @@ Com base nisso, ele gerará automaticamente todo o código necessário em **C#**
 
 # 🚀 Passo a Passo Completo
 
-## 📌 1 --- Criar o Resource Group
+## 📌 PARTE 1 --- Criar o Resource Group
 
 Acesse o portal e crie um Resource Group para organizar os recursos do
 projeto.
@@ -36,7 +36,7 @@ projeto.
 
 ------------------------------------------------------------------------
 
-## 🤖 2 --- Acessar o Portal do AI Foundry
+## 🤖 PARTE 2 --- Acessar o Portal do AI Foundry
 
 Entre no **AI Foundry** para criação do modelo de IA que será utilizado.
 
@@ -45,7 +45,7 @@ Entre no **AI Foundry** para criação do modelo de IA que será utilizado.
 
 ------------------------------------------------------------------------
 
-## 🧠 3 --- Escolher o Modelo
+## 🧠 PARTE 3 --- Escolher o Modelo
 
 O modelo utilizado neste projeto foi:
 
@@ -55,7 +55,7 @@ O modelo utilizado neste projeto foi:
 
 ------------------------------------------------------------------------
 
-## 🧪 4 --- Testar o Modelo no Playground
+## 🧪PARTE 4 --- Testar o Modelo no Playground
 
 Exemplo de prompt usado:
 
@@ -74,7 +74,7 @@ Exemplo de prompt usado:
 Concluimos que está funcionando
 ------------------------------------------------------------------------
 
-## 🛠️ 5 --- Criar o Agente "Criação de Código"
+## 🛠️ PARTE 5 --- Criar o Agente "Criação de Código"
 
 Prompt utilizado:
 
@@ -84,7 +84,7 @@ Prompt utilizado:
 
 ------------------------------------------------------------------------
 
-## 🧪 6 --- Testar o Agente
+## 🧪PARTE 6 --- Testar o Agente
 
 Exemplo:
 
@@ -100,7 +100,7 @@ Exemplo:
 
 ------------------------------------------------------------------------
 
-## ⚡ 7 --- Criar uma Ação (Action)
+## ⚡PARTE 7 --- Criar uma Ação (Action)
 
 Permite chamar o agente via APIs e automações externas.
 <img width="1633" height="760" alt="image" src="https://github.com/user-attachments/assets/62d5d03a-4cd8-4f6a-9580-2c409f90d071" />
@@ -109,7 +109,7 @@ Permite chamar o agente via APIs e automações externas.
 
 ------------------------------------------------------------------------
 
-## ⚡ 8 --- Teste do Playground
+## ⚡PARTE 8 --- Teste do Playground
 
 <img width="1663" height="808" alt="image (3)" src="https://github.com/user-attachments/assets/c262ed95-5fa0-4f2a-8174-061fef0d8513" />
 
