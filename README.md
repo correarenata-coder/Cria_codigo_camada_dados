@@ -2,7 +2,7 @@
 
 🚀 DESENVOLVIDO NO PROGRAMA AZURE FRONTIER GIRLS |
 | :--- |
-| Este trabalho foi concebido e criado após a minha formação no **Azure Frontier Girls** – a iniciativa da **Microsoft** e **WoMakersCode** para líderes femininas em IA e Azure. |
+| Este trabalho foi concebido e criado como atividade na minha jornda no **Azure Frontier Girls** – a iniciativa da **Microsoft** e **WoMakersCode** para líderes femininas em IA e Azure. |
 
 # 🧩 Criação Automática da Camada de Dados (MVC + Dapper)
 
