@@ -2,12 +2,11 @@
 
 🚀 DESENVOLVIDO NO PROGRAMA AZURE FRONTIER GIRLS |
 | :--- |
-| Este projeto foi concebido e criado após a minha formação no **Azure Frontier Girls** – a iniciativa da **Microsoft** e **WoMakersCode** para líderes femininas em IA e Azure. |
-
+| Este trabalho foi concebido e criado após a minha formação no **Azure Frontier Girls** – a iniciativa da **Microsoft** e **WoMakersCode** para líderes femininas em IA e Azure. |
 
 # 🧩 Criação Automática da Camada de Dados (MVC + Dapper)
 
-Este projeto foi desenvolvido para ajudar desenvolvedores iniciantes a gerar automaticamente a camada de dados de um projeto MVC, a partir do nome da tabela e de seus respectivos campos.
+Criação de uma ferramenta  desenvolvida para ajudar desenvolvedores iniciantes a gerar automaticamente a camada de dados de um projeto MVC (Model-View-Controller), utilizando o micro-ORM Dapper. A geração é feita a partir do nome da tabela e de seus respectivos campos, agilizando o desenvolvimento e reduzindo erros.
 
 ---
 
